@@ -1,10 +1,11 @@
 # SpiderSensei-Performance-Tracker (ALPHA version)
+
+***IMPORTANT NOTE: The Tracker only supports the CURATED-QUICKLY channel at the moment
+
 SpiderSensei-Bot-Analyzer evaluates the performance of the Spider Sensei bot, providing metrics, hit rates, and insights into crypto trading alerts, with professional PDF reports and analytics.
 
 Description of How the Bot Works
 SpiderSensei-Bot-Analyzer is a Python-based tool that evaluates the performance of the Spider Sensei bot by monitoring the CURATED-QUICKLY (for now) Telegram channel for alerts and assessing their effectiveness. The bot tracks real-time alerts for Solana tokens (currently migrated from Pump.fun) that include Contract Addresses (CAs). It pulls market data from GeckoTerminal, focusing on the liquidity pool with the highest trading volume for each token. The tool analyzes the price performance of each alert and generates detailed reports with metrics and visualizations.
-
-IMPORTANT NOTE: The Tracker only supports the CURATED-QUICKLY channel at the moment
 
 ## How the Bot Works
 
