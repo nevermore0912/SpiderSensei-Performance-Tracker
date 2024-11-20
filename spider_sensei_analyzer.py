@@ -32,8 +32,8 @@ import matplotlib.dates as mdates
 import numpy as np
 
 # Telegram API credentials
-api_id = '24770422'  # obtained from my.telegram.org
-api_hash = 'ca5c7a4029912c4516b0a8a86d6770bd'  # obtained from my.telegram.org
+api_id = 'xxxx'  # obtained from my.telegram.org
+api_hash = 'xxxxxx'  # obtained from my.telegram.org
 
 # Create the client and connect
 client = TelegramClient('session_name', api_id, api_hash)
