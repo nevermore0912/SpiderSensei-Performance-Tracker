@@ -1,6 +1,7 @@
 # SpiderSensei-Performance-Tracker
 
 ***IMPORTANT NOTES:
+
 ---ALPHA Version: This is an early release with limited functionality and experimental features. Use with caution!
 
 ---Channel Support: Currently, the tracker only monitors the CURATED-QUICKLY Telegram channel.
