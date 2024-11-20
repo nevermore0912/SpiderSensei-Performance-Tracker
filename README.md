@@ -2,12 +2,19 @@
 
 ***IMPORTANT NOTES:
 ---ALPHA Version: This is an early release with limited functionality and experimental features. Use with caution!
+
 ---Channel Support: Currently, the tracker only monitors the CURATED-QUICKLY Telegram channel.
+
 ---Token Compatibility: At this stage, the tracker exclusively supports Solana (SOL) tokens.
+
 ---A coin is a **Winner** if price increases by more than 50%
+
 ---A coin is a **Loss** if price drops after the alert
+
 ---For the performance table, the Max X's column gives us the MAX returns we could have had if we exited at the top.
+
 ---Similarly if the coin dropped in price the Max X's is less than 1.
+
 ---For now the median gain is just the median of ALL the Max X's but we are still trying to quantify this better as we sometimes ride coins to 0 other times we exit for a loss...
 
 SpiderSensei-Bot-Analyzer evaluates the performance of the Spider Sensei bot, providing metrics, hit rates, and insights into crypto trading alerts, with professional PDF reports and analytics.
