@@ -1,8 +1,9 @@
 # SpiderSensei-Performance-Tracker
 
-***IMPORTANT NOTE: The Tracker only supports the CURATED-QUICKLY channel at the moment
-
-***ALPHA version – limited functionality and experimental features.***
+***IMPORTANT NOTES:
+   ---ALPHA Version: This is an early release with limited functionality and experimental features. Use with caution!
+   ---Channel Support: Currently, the tracker only monitors the CURATED-QUICKLY Telegram channel.
+   ---Token Compatibility: At this stage, the tracker exclusively supports Solana (SOL) tokens.
 
 SpiderSensei-Bot-Analyzer evaluates the performance of the Spider Sensei bot, providing metrics, hit rates, and insights into crypto trading alerts, with professional PDF reports and analytics.
 
