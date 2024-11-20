@@ -1,6 +1,8 @@
-# SpiderSensei-Performance-Tracker (ALPHA version)
+# SpiderSensei-Performance-Tracker
 
 ***IMPORTANT NOTE: The Tracker only supports the CURATED-QUICKLY channel at the moment
+
+***ALPHA version – limited functionality and experimental features.***
 
 SpiderSensei-Bot-Analyzer evaluates the performance of the Spider Sensei bot, providing metrics, hit rates, and insights into crypto trading alerts, with professional PDF reports and analytics.
 
