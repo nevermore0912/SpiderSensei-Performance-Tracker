@@ -10,7 +10,7 @@
 
    - A coin is a **Winner** if price increases by more than 50%
 
-   - A coin is a **Loss** if price drops after the alert
+   - A coin is a **Loss** if price drops after the alert even if it first rose by less than 50%
 
    - For the performance table, the Max X's column gives us the MAX returns we could have had if we exited at the top.
 
