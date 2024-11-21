@@ -22,11 +22,11 @@
 
 SpiderSensei-Bot-Analyzer evaluates the performance of the Spider Sensei bot, providing metrics, hit rates, and insights into crypto trading alerts, with professional PDF reports and analytics.
 
-Description of How the Bot Works
+Description of How the Script Works
 
 SpiderSensei-Bot-Analyzer is a Python-based tool that evaluates the performance of the Spider Sensei bot by monitoring the CURATED-QUICKLY (for now) Telegram channel for alerts and assessing their effectiveness. The bot tracks real-time alerts for Solana tokens (currently migrated from Pump.fun) that include Contract Addresses (CAs). It pulls market data from GeckoTerminal, focusing on the liquidity pool with the highest trading volume for each token. The tool analyzes the price performance of each alert and generates detailed reports with metrics and visualizations.
 
-## How the Bot Works
+## How the Script Works
 
 1. **Tracking Telegram Alerts**:  
    The bot monitors a specific Telegram channel for curated alerts. Alerts with Contract Addresses (CAs) are processed, while others are ignored.
@@ -45,7 +45,7 @@ SpiderSensei-Bot-Analyzer is a Python-based tool that evaluates the performance 
    Candlestick charts for different timeframes (1m, 5m, 1h) are generated for each token. A 1-hour chart is included to assess older coins for historical pumps or sustained price trends.
 
 5. **PDF Reporting**:  
-   The bot generates PDF reports with:
+   The script generates PDF reports with:
    - A performance summary on the first page (hit rate, median gains, total alerts).
    - Detailed insights and charts for each token.
    - Naming convention: spidersensei_report_YYYYMMDD_HHMMSS.pdf
