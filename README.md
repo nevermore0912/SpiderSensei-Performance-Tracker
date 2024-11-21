@@ -49,3 +49,4 @@ SpiderSensei-Bot-Analyzer is a Python-based tool that evaluates the performance 
    The bot generates professional PDF reports with:
    - A performance summary on the first page (hit rate, median gains, total alerts).
    - Detailed insights and charts for each token.
+   - Naming convention: spidersensei_report_YYYYMMDD_HHMMSS.pdf
