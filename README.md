@@ -45,7 +45,7 @@ SpiderSensei-Bot-Analyzer is a Python-based tool that evaluates the performance 
    Candlestick charts for different timeframes (1m, 5m, 1h) are generated for each token. A 1-hour chart is included to assess older coins for historical pumps or sustained price trends.
 
 5. **PDF Reporting**:  
-   The bot generates professional PDF reports with:
+   The bot generates PDF reports with:
    - A performance summary on the first page (hit rate, median gains, total alerts).
    - Detailed insights and charts for each token.
    - Naming convention: spidersensei_report_YYYYMMDD_HHMMSS.pdf
