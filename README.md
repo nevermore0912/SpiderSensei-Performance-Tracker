@@ -4,6 +4,8 @@
 
    - ALPHA Version: This is an early release with limited functionality and experimental features. Use with caution!
 
+   - For now the code needs TWEEKING if you want to run it yourself (contact me)
+
    - Channel Support: Currently, the tracker only monitors the CURATED-QUICKLY Telegram channel.
 
    - Token Compatibility: At this stage, the tracker exclusively supports Solana (SOL) tokens.
